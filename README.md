@@ -70,4 +70,3 @@ Details on how to contribute to rAthena can be found in [CONTRIBUTING.md](https:
 
 ## 6. License
 Copyright (c) rAthena Development Team - Licensed under [GNU General Public License v3.0](https://github.com/rathena/rathena/blob/master/LICENSE)
-
