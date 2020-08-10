@@ -1,4 +1,4 @@
-8/10 1145a
+8/10 1p
 
 <img src="branding/logo.png" align="right" height="90" />
 # rAthena
