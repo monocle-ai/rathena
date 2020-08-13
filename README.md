@@ -1,4 +1,4 @@
-8/10 1p
+8/13 3p
 
 <img src="branding/logo.png" align="right" height="90" />
 # rAthena
